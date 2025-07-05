@@ -24,7 +24,7 @@ I have developed a **gym management system** and an **event organization platfor
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
