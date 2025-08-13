@@ -7,7 +7,7 @@ I have developed a **gym management system** and an **event organization platfor
 
 ## 📫 Contact
 
-- **Portfolio:** blagojpetrov.netlify.app
+- **Portfolio:** [blagojpetrov.netlify.app](https://blagojpetrov.netlify.app/)
 - **GitHub:** [github.com/BlagojPetrov](https://github.com/BlagojPetrov)  
 - **LinkedIn:** [linkedin.com/in/blagoj-petrov](https://linkedin.com/in/blagoj-petrov)  
 - **Email:** petrovblaze48@gmail.com
