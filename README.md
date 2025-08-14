@@ -1,7 +1,6 @@
 # Hi there 👋
 
 I am a passionate front-end developer, actively learning and growing while building dynamic and responsive web applications using modern JavaScript frameworks and tools.  
-I have developed a **gym management system** and an **event organization platform**, and I continue to sharpen my skills through personal and collaborative projects.
 
 ---
 
