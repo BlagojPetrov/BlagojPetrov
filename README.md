@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a passionate front-end developer, actively learning and growing while building dynamic and responsive web applications using modern JavaScript frameworks and tools.  
+I am a passionate fullstack developer, actively learning and growing while building dynamic and responsive web applications using modern JavaScript frameworks and tools.  
 
 ---
 
