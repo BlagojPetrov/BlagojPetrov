@@ -6,7 +6,7 @@ I am a passionate fullstack developer, actively learning and growing while build
 
 ## 📫 Contact
 
-- **Portfolio:** [https://www.blagojpetrov.com/](https://www.blagojpetrov.com/)
+- **Portfolio:** [https://www.blagojpetrov.com/](https://www.blagojpetrov.com)
 - **GitHub:** [github.com/BlagojPetrov](https://github.com/BlagojPetrov)  
 - **LinkedIn:** [linkedin.com/in/blagoj-petrov](https://linkedin.com/in/blagoj-petrov)  
 - **Email:** petrovblaze48@gmail.com
